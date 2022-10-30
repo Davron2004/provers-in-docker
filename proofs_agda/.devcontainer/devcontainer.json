@@ -1,0 +1,9 @@
+{
+    "image": "agda-env",
+  
+    "customizations": {
+      "vscode": {
+        "extensions": ["banacorn.agda-mode"]
+      }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "image" : "z3-env",
+    
+    "customizations": {
+        "vscode" : {
+            "extensions": ["ms-python.python"]
+        }
+    }
+}

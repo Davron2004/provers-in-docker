@@ -1,0 +1,9 @@
+{
+    "image": "tlaplus-env",
+  
+    "customizations": {
+      "vscode": {
+        "extensions": ["alygin.vscode-tlaplus"]
+      }
+    }
+}

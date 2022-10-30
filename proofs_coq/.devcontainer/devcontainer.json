@@ -1,0 +1,9 @@
+{
+    "image": "coq-env",
+  
+    "customizations": {
+      "vscode": {
+        "extensions": ["maximedenes.vscoq"]
+      }
+    }
+}

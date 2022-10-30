@@ -1,0 +1,9 @@
+{
+    "image": "dafny-env",
+  
+    "customizations": {
+      "vscode": {
+        "extensions": ["dafny-lang.ide-vscode"]
+      }
+    }
+}
